@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="SSHlib">
+    <CLASSES>
+      <root url="jar://D:/Others/Program/SSHkuangjia/sshlib/struts2-spring-plugin-2.5.16.jar!/" />
+      <root url="jar://D:/Others/Program/SSHkuangjia/sshlib/taglibs-standard-compat-1.2.5.jar!/" />
+      <root url="jar://D:/Others/Program/SSHkuangjia/sshlib/taglibs-standard-impl-1.2.5.jar!/" />
+      <root url="jar://D:/Others/Program/SSHkuangjia/sshlib/taglibs-standard-jstlel-1.2.5.jar!/" />
+      <root url="jar://D:/Others/Program/SSHkuangjia/sshlib/taglibs-standard-spec-1.2.5.jar!/" />
+      <root url="jar://D:/Others/Program/SSHkuangjia/sshlib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://D:/Others/Program/SSHkuangjia/sshlib/log4j-1.2.17.jar!/" />
+      <root url="jar://D:/Others/Program/SSHkuangjia/sshlib/mysql-connector-java-5.1.45-bin.jar!/" />
+      <root url="jar://D:/Others/Program/SSHkuangjia/sshlib/c3p0-0.9.5.2.jar!/" />
+      <root url="jar://D:/Others/Program/SSHkuangjia/sshlib/hibernate-c3p0-5.3.0.CR1.jar!/" />
+      <root url="jar://D:/Others/Program/SSHkuangjia/sshlib/mchange-commons-java-0.2.11.jar!/" />
+      <root url="jar://D:/Others/Program/SSHkuangjia/sshlib/gson-2.8.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

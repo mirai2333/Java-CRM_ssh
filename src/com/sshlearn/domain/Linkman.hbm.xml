@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+    <class name="com.sshlearn.domain.Linkman" table="lkm_linkman">
+        <id name="lkmId" column="lkm_id">
+            <generator class="native"/>
+        </id>
+
+        <property name="lkmName" column="lkm_name"/>
+        <property name="lkmSex" column="lkm_sex"/>
+        <property name="lkmMobile" column="lkm_mobile"/>
+        <property name="lkmPhone" column="lkm_phone"/>
+
+        <many-to-one name="customer" class="com.sshlearn.domain.Customer" column="cust_id" cascade="save-update"/>
+    </class>
+</hibernate-mapping>

@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="SSHlearn:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/SSHlearn_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="SSHlearn" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Hibernate" />
+          <element id="library" level="project" name="Struts 2" />
+          <element id="library" level="project" name="Spring" />
+          <element id="library" level="project" name="SSHlib" />
+          <element id="library" level="project" name="Java EE 6-Java EE 6" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="SSHlearn/web/Web" />
+    </root>
+  </artifact>
+</component>

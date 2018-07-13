@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Spring" type="spring">
+    <CLASSES>
+      <root url="jar://D:/Others/Program/SSHkuangjia/spring/SpringLib/aopalliance-.jar!/" />
+      <root url="jar://D:/Others/Program/SSHkuangjia/spring/SpringLib/spring-aspects-5.0.4.RELEASE.jar!/" />
+      <root url="jar://D:/Others/Program/SSHkuangjia/spring/SpringLib/spring-expression-5.0.4.RELEASE.jar!/" />
+      <root url="jar://D:/Others/Program/SSHkuangjia/spring/SpringLib/spring-beans-5.0.4.RELEASE.jar!/" />
+      <root url="jar://D:/Others/Program/SSHkuangjia/spring/SpringLib/spring-core-5.0.4.RELEASE.jar!/" />
+      <root url="jar://D:/Others/Program/SSHkuangjia/spring/SpringLib/spring-aop-5.0.4.RELEASE.jar!/" />
+      <root url="jar://D:/Others/Program/SSHkuangjia/spring/SpringLib/spring-context-5.0.4.RELEASE.jar!/" />
+      <root url="jar://D:/Others/Program/SSHkuangjia/spring/SpringLib/aspectjweaver.jar!/" />
+      <root url="jar://D:/Others/Program/SSHkuangjia/spring/SpringLib/spring-jdbc-5.0.4.RELEASE.jar!/" />
+      <root url="jar://D:/Others/Program/SSHkuangjia/spring/SpringLib/spring-orm-5.0.4.RELEASE.jar!/" />
+      <root url="jar://D:/Others/Program/SSHkuangjia/spring/SpringLib/spring-test-5.0.4.RELEASE.jar!/" />
+      <root url="jar://D:/Others/Program/SSHkuangjia/spring/SpringLib/spring-tx-5.0.4.RELEASE.jar!/" />
+      <root url="jar://D:/Others/Program/SSHkuangjia/spring/SpringLib/spring-web-5.0.4.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
